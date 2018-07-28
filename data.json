@@ -1,0 +1,54 @@
+{"details":{
+"image":"salena.jpg",
+"name":"priya",
+"phoneno":"+9183429354",
+"email":"priyankanaidu442@gmail.com",
+"address":"vijayawada,52001"
+},
+"career":{
+  "info":"To pursue a challenging carrer"
+},
+"education":[
+  {
+  "qualification":"B.Tech",
+  "institute":"MIC college",
+  "year":"2016-2020",
+  "percentage":"89%"
+},
+{
+  "qualification":"intermediate",
+  "institute":"Narayana",
+  "year":"2014-2016",
+  "percentage":"86%"
+},
+{
+  "qualification":"ssc",
+  "institute":"Narayana school",
+  "year":"2013",
+  "percentage":"86%"
+}
+],
+"skills":[{
+  "title":"programming language",
+  "info":["C,C++,Java,R,Python"]
+},
+{
+  "title":"Databases",
+  "info":["oracle,sql,mysql,tinydb"]
+},
+{
+  "title":"Operating systems",
+  "info":["windows,Linux,ubuntu,Dos"]
+}
+],
+"achievements":[{
+  "info":"i got prize in coding"
+},
+{
+  "info":"won prize in badminton"
+},
+{
+  "info":"participated various technical events in college"
+}
+]
+}
